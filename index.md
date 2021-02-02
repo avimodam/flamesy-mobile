@@ -6,6 +6,8 @@ description: Optimize & Monitoring Battery
 
 Battery Saver - LUX Battery Master - Battery Charge Faster & Booster - Real-time Monitoring - Battery Indicator
 
+!(https://play-lh.googleusercontent.com/A7xz47qtXyiawkOMRMZhJmEnKRqFjpnBUwoGCMRa-hVt5YK2PhgZgco56jnt7HUvJng=w1920-h988)
+
 Highlights features:
 * Battery Saver mode.
 * Optimize battery usage.
