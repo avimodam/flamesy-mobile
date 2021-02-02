@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: LUX Battery Master
+description: Optimize & Monitoring Battery
+---
 
-You can use the [editor on GitHub](https://github.com/avimodam/flamesy-mobile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Battery Saver - LUX Battery Master - Battery Charge Faster & Booster - Real-time Monitoring - Battery Indicator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Highlights features:
+* Battery Saver mode.
+* Optimize battery usage.
+* Real-time battery electric current monitoring.
+* Real-time battery information indicator.
+* Remaining use time.
+* Battery usage stats - Charge history.
+* Battery information.
+* Battery health information.
+* Dark mode support.
 
-### Markdown
+★ Battery Saver
+Save your battery power and optimize battery usage.
+Longer battery life up to 50% with Super saving mode.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+★ Battery Real-time Indicator
+Real-time battery electric current update in the status bar and notification.
 
-```markdown
-Syntax highlighted code block
+★ Battery Real-Time Monitoring
+Monitor your battery information like an electric current, temperature, capacity, voltage,... in real-time.
 
-# Header 1
-## Header 2
-### Header 3
+★ Battery History
+Displays a detailed and intuitive list of the device's battery usage and charge history.
 
-- Bulleted
-- List
+★ Low Battery Alarm
+Protect your battery by alerting when the battery level is low.
 
-1. Numbered
-2. List
+★ Full Battery Alarm
+Protect your battery against overcharging by alerting when the battery level is full.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avimodam/flamesy-mobile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+★ Battery Overheating Alert
+Protect your battery when the temperature gets too high.
