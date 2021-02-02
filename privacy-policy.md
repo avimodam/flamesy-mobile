@@ -67,3 +67,5 @@ Netherlands. If you reside outside the Netherlands your information will be tran
 # Contact us
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at flamesymobile@gmail.com
+
+version: 1.0, updated on February 2, 2021
