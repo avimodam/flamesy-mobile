@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-description: LUX Battery Master
+description: LUX Battery Master - Optimize & Monitoring Battery
 ---
 
 # Privacy Policy
